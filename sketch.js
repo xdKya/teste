@@ -14,6 +14,8 @@ var bird;
 
 var fundo_img;
 
+var a;
+
 function preload(){
     fundo_img = loadImage("spritesangrybirds/bg.png");
 }
